@@ -1,0 +1,12 @@
+git clone https://github.com/MrDenius/NomberOneGameC-.git {Самое первое}
+
+cd .. {Перейти в кореную папку}
+cd (путь к папке куда установили Самое первое)
+dir {Где ты находишься}
+
+git status {Статус}
+git add [filename] {Что добавить}
+git commit -m "Что нового" {Коментарий}
+git push {Загрузить всё}
+
+git push {Скачать всё }
